@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW7.3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="planet">Planet</string>
+    <string name="space_station">Space station</string>
+    <string name="location">Location</string>
+    <string name="deadOrAlive">dead Or Alive</string>
+    <string name="details">Details</string>
+    <string name="nameAndSurname">name And Surname</string>
+</resources>
